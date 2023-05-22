@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/ing">
+        <file>img/Black_bishop.png</file>
+        <file>img/Black_king.png</file>
+        <file>img/Black_pawn.png</file>
+        <file>img/Black_queen.png</file>
+        <file>img/Black_rook.png</file>
+        <file>img/White_king.png</file>
+        <file>img/White_pawn.png</file>
+        <file>img/White_queen.png</file>
+        <file>img/White_rook.png</file>
+        <file>img/White_knight.png</file>
+        <file>img/Black_knight.png</file>
+        <file>img/White_bishop.png</file>
+        <file>img/emptyCell.jpg</file>
+        <file>img/Board.jpg</file>
+    </qresource>
+</RCC>
