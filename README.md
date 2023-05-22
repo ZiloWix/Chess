@@ -1,3 +1,3 @@
 # Chess
 Chess game implemented with Qt Framework
-![alt text]([http://url/to/img.pn](https://ibb.co/LrKKYp9)g)
+![alt text](https://i.ibb.co/9hPPcYy/picture1.png)
